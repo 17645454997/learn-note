@@ -30,6 +30,26 @@
 4. 进入 `advanced-java` 根目录：`cd advanced-java`
 5. 执行命令，运行本项目：`docsify serve`
 
+##数据结构
+
+##树
+
+*[二叉树](docs/data-structure/tree.md)
+*[哈夫曼树](docs/data-structure/huffman-tree.md)
+*[红黑树](docs/data-structure/red-black-tree.md)
+*[B树和B+树](docs/data-structure/b-tree-b+tree.md)
+
+##堆
+
+*[大顶堆和小顶堆](docs/data-structure/heap.md)
+ 
+##操作系统
+
+* [进程与线程关系以及区别](docs/data-structure/process-thread.md)
+* [进程间的通信](docs/data-structure/process-communication.md)
+* [线程间的通信](docs/data-structure/thread-communication.md)
+* [内存管理](docs/data-structure/memory-management.md)
+* [进程间调度算法](docs/data-structure/process-scheduling-algorithm.md)
 
 ## 高并发架构
 
