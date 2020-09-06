@@ -14,7 +14,7 @@
 [![coding](https://badgen.net/badge/leetcode/%E5%88%B7%E9%A2%98%E5%B0%8F%E9%98%9F/cyan)](https://github.com/doocs/leetcode)
 
 
-本项目大部分内容来自中华石杉，版权归作者所有，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)、[海量数据处理](#海量数据处理)等领域知识。我对这部分知识做了一个系统的整理，方便学习查阅。
+本项目大部分内容来自中华石杉，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)、[海量数据处理](#海量数据处理)等领域知识。我对这部分知识做了一个系统的整理，方便学习查阅。
 
 学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎各位开发者朋友到 Issues 讨论区分享自己的一些想法和实践经验。
 
@@ -194,38 +194,3 @@ Doocs 技术社区，致力于打造一个内容完整、持续成长的互联�
 | 5 | [coding-interview](https://github.com/doocs/coding-interview) | 代码面试题集，包括《剑指 Offer》、《编程之美》等。 | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/coding-interview) |
 | 6 | [md](https://github.com/doocs/md) | 一款高度简洁的微信 Markdown 编辑器。 | ![](https://badgen.net/github/stars/doocs/md) <br>![](https://badgen.net/github/forks/doocs/md) |
 | 7 | [technical-books](https://github.com/doocs/technical-books) | 值得一看的技术书籍列表。 | ![](https://badgen.net/github/stars/doocs/technical-books) <br>![](https://badgen.net/github/forks/doocs/technical-books) |
-
-## 贡献者
-
-感谢以下所有朋友对 [Doocs 技术社区](https://github.com/doocs) 所做出的贡献，[参与项目维护请戳这儿](https://doocs.github.io/#/?id=how-to-join)。
-
-<!-- ALL-CONTRIBUTORS-LIST: START - Do not remove or modify this section -->
-
-<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=1080&button=false" /></a>
-
-<!-- ALL-CONTRIBUTORS-LIST: END -->
-
-## 公众号
-
-[Doocs](https://github.com/doocs) 技术社区旗下唯一公众号「**Doocs开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
-
-关注「**Doocs开源社区**」公众号，回复 **PDF**，即可获取本项目离线 PDF 文档（283 页精华），学习更加方便！
-
-![](./images/pdf.png)
-
-<table>
-    <tr>
-      <td align="center" style="width: 200px;">
-        <a href="https://github.com/doocs">
-          <img src="./images/qrcode-for-doocs.jpg" style="width: 400px;"><br>
-          <sub>公众平台</sub>
-        </a><br>
-      </td>
-      <td align="center" style="width: 200px;">
-        <a href="https://github.com/yanglbme">
-          <img src="./images/qrcode-for-yanglbme.jpg" style="width: 400px;"><br>
-          <sub>个人微信</sub>
-        </a><br>
-      </td>
-    </tr>
-</table>
