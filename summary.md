@@ -12,7 +12,24 @@
    - [线程间的通信](docs/data-structure/thread-communication.md)
    - [内存管理](docs/data-structure/memory-management.md)
    - [进程间调度算法](docs/data-structure/process-scheduling-algorithm.md)
-    
+
+- 计算机与网络
+
+   - [TCP/IP网络协议](docs/network/network-protocol.md) 
+   - [HTTP协议和HTTPS协议](docs/network/network-http-https.md)
+   - [网络通信](docs/network/network-communications.md)
+   
+- JAVA基础
+
+   - [BIO/AIO/NIO区别](docs/java-base/bio-nio-aio.md)
+   - [什么是CAS](docs/java-base/cas.md)
+   - [集合类](docs/java-base/collection-map.md)
+   - [Java内存模型](docs/java-base/java-memory-model.md)  
+   
+- 多线程设计模式   
+   
+   - [Single Threaded Execution](docs/multithreading-design-pattern/single-thread-excution.md)
+   
 - 高并发架构
 
     - [**消息队列**](./docs/high-concurrency/mq-interview.md)
